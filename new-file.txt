@@ -2,3 +2,5 @@ Some contents in the new file
 bla bla bla
 Ha ha ha
 One more line
+
+one more edit
